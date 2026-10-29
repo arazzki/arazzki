@@ -182,7 +182,7 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arazzki&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&count_private=true" width="100%" alt="Ariq's GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arazzki&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arazzki&layout=compact&langs_count=6&hide=html,powershell&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
