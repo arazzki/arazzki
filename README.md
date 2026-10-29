@@ -3,11 +3,11 @@
 <!-- ========================================================================= -->
 <div align="center">
   <a href="https://github.com/arazzki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Ariq+Azzki;Undergraduate+Computer+Science+%40+Telkom+University;Systems+Programming+%E2%80%A2+Backend+Architecture+%E2%80%A2+Applied+CV;Engineering+Reliable%2C+High-Performance+Software" alt="Ariq Azzki Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Ariq+Azzki;Undergraduate+Information+Technology+%40+Telkom+University;Systems+Programming+%E2%80%A2+Backend+Architecture+%E2%80%A2+Applied+CV;Engineering+Reliable%2C+High-Performance+Software" alt="Ariq Azzki Typing Banner" />
   </a>
 
   <p align="center">
-    <code>Systems & Network Sockets</code> • <code>Distributed Backends</code> • <code>Applied Computer Vision</code> • <code>Mobile Solutions</code>
+    <code>Systems & Network Sockets</code> • <code>Distributed Backends</code> • <code>Native Desktop (Rust)</code> • <code>Applied Computer Vision</code>
   </p>
 
   <p align="center">
@@ -31,12 +31,12 @@
     <td width="58%" valign="top">
       <h3>⚡ About Me</h3>
       <p>
-        I am a Computer Science undergraduate at <b>Telkom University</b> focused on low-level systems programming, scalable backend architectures, and applied computer vision.
+        I am an Information Technology undergraduate at <b>Telkom University</b> with a deep passion for low-level systems programming, scalable backend architectures, and applied computer vision.
       </p>
       <ul>
-        <li>🔭 <b>Current Focus:</b> Designing concurrent network socket relays and automated CV pipelines.</li>
-        <li>⚙️ <b>Core Languages:</b> Building high-throughput systems with <b>Go</b>, <b>C++</b>, and <b>Python</b>.</li>
-        <li>💡 <b>Interests:</b> Socket protocols, concurrency models, relational database tuning, and OCR automation.</li>
+        <li>🔭 <b>Active Endeavors:</b> Crafting native desktop experiences with <b>Rust</b> and building campus-scale web platforms.</li>
+        <li>⚙️ <b>Core Languages:</b> Building high-throughput systems with <b>Rust</b>, <b>Go</b>, <b>C++</b>, and <b>Python</b>.</li>
+        <li>💡 <b>Interests:</b> Socket relays, concurrent pipelines, native UI runtimes, and automated OCR vision systems.</li>
         <li>📫 <b>Get in Touch:</b> <a href="mailto:ariq23azzaky@gmail.com"><b>ariq23azzaky@gmail.com</b></a></li>
       </ul>
     </td>
@@ -45,13 +45,14 @@
       <pre>
 {
   "engineer": "Ariq Azzki",
+  "program": "Information Technology",
   "institution": "Telkom University",
   "focus": [
     "Systems Programming",
     "Backend Architecture",
     "Applied CV"
   ],
-  "primary_stack": ["Go", "C++", "Python", "TypeScript"],
+  "primary_stack": ["Rust", "Go", "C++", "Python", "TypeScript"],
   "status": "Open for Collaborations"
 }
       </pre>
@@ -70,6 +71,7 @@
   <tr>
     <td width="24%"><b>Core Languages</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
@@ -83,6 +85,7 @@
     <td><b>Backend & Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Socket_Programming-1E293B?style=flat-square&logo=gnubash&logoColor=white" alt="Socket Programming" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/REST_API-0284C7?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
@@ -108,10 +111,11 @@
   <tr>
     <td><b>Mobile & Frontend</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Slint_UI-237C02?style=flat-square&logo=rust&logoColor=white" alt="Slint UI" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
@@ -133,6 +137,13 @@
 <!-- ========================================================================= -->
 ### 🚀 Featured Engineering Projects
 
+#### ⚡ Currently Under Development
+| Project | Description & Architecture | Tech Stack | Status / Link |
+| :--- | :--- | :--- | :---: |
+| **[Kripton](https://github.com/arazzki/Kripton)** | Living notch & smart island application for Windows inspired by macOS notch & Nusa. 100% native desktop app with zero Electron/WebView2 overhead; features plasma orb idle animation, synchronized lyrics, music controller, focus timer, and system hardware HUD. | `Rust` `Slint UI` `Win32 API` | [**Repo (WIP) ↗**](https://github.com/arazzki/Kripton) |
+| **SewaKit** | Peer-to-peer campus rental platform for student academic gear, IoT components, and lab multimedia equipment. Monorepo architecture featuring rental workflows, automated no-show handling, payment integration, and Dockerized environments. | `Next.js` `Laravel` `PostgreSQL` `Docker` | `🚧 In Development` |
+
+#### 📦 Highlighted Systems & Applications
 | Project | Description & Architecture | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
 | **[receipt_bot](https://github.com/arazzki/receipt_bot)** | Intelligent Telegram bot automating personal expense tracking and group bill-splits via computer vision OCR pipelines and relational database persistence. | `Python` `OpenCV` `PostgreSQL` `Telegram API` | [**Code ↗**](https://github.com/arazzki/receipt_bot) |
@@ -152,8 +163,8 @@
   ┌────────────────────────┐    ┌────────────────────────┐    ┌────────────────────────┐
   │    ⚡ Performance      │    │     🛡️ Reliability     │    │      🎯 Pragmatism     │
   │  Low-latency systems,  │ ── │  Clean schemas, robust │ ── │  Building software     │
-  │  efficient sockets,    │    │  concurrency patterns, │    │  that solves tangible, │
-  │  and memory awareness. │    │  and resilient design. │    │  real-world problems.  │
+  │  native desktop (Rust) │    │  concurrency patterns, │    │  that solves tangible, │
+  │  and socket efficiency.│    │  and resilient design. │    │  real-world problems.  │
   └────────────────────────┘    └────────────────────────┘    └────────────────────────┘
 ```
 
