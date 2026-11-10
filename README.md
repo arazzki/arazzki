@@ -3,7 +3,7 @@
 <!-- ========================================================================= -->
 <div align="center">
   <a href="https://github.com/arazzki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Ariq+Azzki;Undergraduate+Information+Technology+%40+Telkom+University;Systems+Programming+%E2%80%A2+Backend+Architecture+%E2%80%A2+Applied+CV;Engineering+Reliable%2C+High-Performance+Software" alt="Ariq Azzki Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=780&height=100&lines=Ariq+Azzki;Undergraduate+Information+Technology+%40+Telkom+University;Systems+Programming+%E2%80%A2+Backend+Architecture;Engineering+Reliable%2C+High-Performance+Software" alt="Ariq Azzki Typing Banner" />
   </a>
 
   <p align="center">
