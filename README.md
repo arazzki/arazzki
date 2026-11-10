@@ -49,8 +49,7 @@
   "institution": "Telkom University",
   "focus": [
     "Systems Programming",
-    "Backend Architecture",
-    "Applied CV"
+    "Backend Architecture"
   ],
   "primary_stack": ["Rust", "Go", "C++", "Python", "TypeScript"],
   "status": "Open for Collaborations"
